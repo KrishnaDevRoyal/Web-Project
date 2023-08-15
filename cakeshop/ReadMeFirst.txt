@@ -10,10 +10,6 @@ Summary: Dolphin Bakery is an e-commerce store website aimed to facilitate the s
  
 Technologies Used: HTML, CSS, JavaScript, Bootstrap, AJAX, JQuery for frontend, PHP as a backend and MySQL for the database.
 
-Libraries Used: PHPMailer
-
-API's Used: Google reCAPTCHA v2
-
 Features:
 -->Elegant and attractive UI
 -->High User-Friendly Interface
@@ -22,18 +18,9 @@ Features:
 -->Remove their orders
 -->Edit their profile info
 -->Embeded Hashing mechanism provides better security for users
---> Google Captcha and Email Verification
 -->Fully customizable
 -->Compact in size
 -->Admins can write and send an email to the subscribers directly
-
-Note:*
-
-Prerequisites for running this project:
-
-1. Install PHPMailer in your pc
-2. Create an account in Google Recaptcha using this URL - https://www.google.com/recaptcha/admin/create
-3. Add your email info within source code (See in the demo video, Please Don't skip to avoid any issues or errors)
 
 
 IMPORTANT NOTE: Use only for Educational Purposes!
